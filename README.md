@@ -1,2 +1,2 @@
-# hlanxuan.github.io
-this is my personal webpage!
+# my web!
+https://hlanxuan.github.io/
